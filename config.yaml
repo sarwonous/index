@@ -1,0 +1,8 @@
+storage:
+    - driver: "sqlite3"
+      filename": "/Users/okdc/go/src/github.com/sarwonous/dcat/.db"
+paths:
+    - name: "catalog 1"
+      path: "/Users/okdc/go/src/github.com/sarwonous/dcat/test/"
+    - name: "catalog 2"
+      path: "/Users/okdc/go/src/github.com/sarwonous/dcat/"
